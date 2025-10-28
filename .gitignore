@@ -1,0 +1,6 @@
+data/*
+!data/.gitkeep
+phi_model/*
+!phi_model/.gitkeep
+precomputed/*
+!precomputed/.gitkeep
