@@ -31,9 +31,9 @@ pip install -r requirements.txt
 
 ### Required Datasets
 
-#### FashionIQ
-
 All datasets should be placed in the ./data directory.
+
+#### FashionIQ
 
 Download the FashionIQ dataset following the instructions in
 the [**official repository**](https://github.com/XiaoxiaoGuo/fashion-iq). 
